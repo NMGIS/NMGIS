@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NMGIS
 - 👀 I’m interested in Python, data science, geographic data, OpenStreetMap, web application development
-- 🌱 I’m currently learning front end development
+- 🌱 I’m currently learning front end development by creating a portfolio on GitHub pages
 - 💞️ I’m looking to collaborate on any projects with a geospatial component
 - 📫 How to reach me - Twitter: @NevinMcIntyre
 
